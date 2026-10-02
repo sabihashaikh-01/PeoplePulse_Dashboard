@@ -1,4 +1,4 @@
-# PeoplePulse — Workforce Intelligence & Retention Analytics
+# PeoplePulse — Workforce Intelligence
 
 An interactive HR analytics dashboard that turns employee-level data into clear, actionable workforce insights — built around attrition, employee experience, compensation, performance, and retention risk.
 
@@ -62,7 +62,7 @@ Or just visit the live GitHub Pages link above.
 
 ## Disclaimer
 
-This dashboard is a portfolio / analytics project. Insights reflect patterns observed in the dataset only and should not be treated as HR policy recommendations without further validation.
+This dashboard is a analytics project. Insights reflect patterns observed in the dataset only and should not be treated as HR policy recommendations without further validation.
 
 ---
 
